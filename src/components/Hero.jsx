@@ -1,4 +1,4 @@
-import myImage from "../assets/me.jpg"; // Adjust the path as needed
+import myImage from "../assets/me2.png";
 import linkedIn from "../assets/linkedIn.svg";
 import github from "../assets/github.svg";
 import medium from "../assets/medium.svg";
@@ -21,43 +21,57 @@ const Hero = () => {
                     <div className="text-lg lg:text-2xl">
                         Frontend Developer
                     </div>
-                    <div className="flex gap-5 mt-10">
-                        <Button className="bg-white h-[50px] text-black hover:text-white hover:outline rounded-3xl">
+                    <div className="flex gap-5 mt-3 lg:mt-10">
+                        <a
+                            href="/Resume.pdf"
+                            download="resume.pdf"
+                            className="bg-white text-xs lg:text-xl h-[50px] px-6 text-black flex items-center justify-center hover:text-white hover:bg-[#131313] hover:outline rounded-3xl"
+                        >
                             Download CV
-                        </Button>
+                        </a>
                         <Button
                             variant="outline"
-                            className="bg-transparent h-[50px] text-white border-white hover:bg-white hover:text-black rounded-3xl"
+                            className="bg-transparent h-[50px] px-6 text-xs lg:text-xl text-white border-white hover:bg-white hover:text-black rounded-3xl"
                         >
                             Contact Info
                         </Button>
                     </div>
-                    <div className="flex gap-5 items-center justify-center mt-5">
+                    {/* Social Media Links */}
+                    <div className="flex gap-5 items-center justify-center mt-3 lg:mt-5">
                         <a
                             href="https://www.linkedin.com/in/armanulhaq"
                             target="_blank"
+                            rel="noopener noreferrer"
+                            aria-label="LinkedIn"
                         >
                             <img
                                 className="h-10 w-10"
                                 src={linkedIn}
-                                alt="My LinkedIn profile"
+                                alt="LinkedIn"
                             />
                         </a>
-                        <a href="https://github.com/armanulhaq" target="_blank">
+                        <a
+                            href="https://github.com/armanulhaq"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            aria-label="GitHub"
+                        >
                             <img
                                 className="h-10 w-10"
                                 src={github}
-                                alt="My GitHub profile"
+                                alt="GitHub"
                             />
                         </a>
                         <a
                             href="https://medium.com/@r_manulhaq"
                             target="_blank"
+                            rel="noopener noreferrer"
+                            aria-label="Medium"
                         >
                             <img
                                 className="h-10 w-10"
                                 src={medium}
-                                alt="My Medium profile"
+                                alt="Medium"
                             />
                         </a>
                     </div>
