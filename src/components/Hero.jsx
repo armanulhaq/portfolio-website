@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 
 const Hero = () => {
     return (
-        <div className="bg-[#131313] flex flex-col lg:flex-row items-center justify-center h-[90vh]">
+        <div className="border-b border-gray-600 bg-[#131313] flex flex-col lg:flex-row items-center justify-center h-[90vh]">
             <div className="container mx-auto px-4 flex flex-col lg:flex-row items-center justify-center lg:space-x-40 h-full">
                 <div className="flex items-center justify-center mb-6 lg:mb-0">
                     <img
