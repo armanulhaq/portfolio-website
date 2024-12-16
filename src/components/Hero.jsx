@@ -1,5 +1,5 @@
 import myImage from "../assets/me2.png";
-import linkedIn from "../assets/linkedIn.svg";
+import linkedIn from "../assets/linkedin.svg";
 import github from "../assets/github.svg";
 import medium from "../assets/medium.svg";
 import { Button } from "@/components/ui/button";
