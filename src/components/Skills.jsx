@@ -13,7 +13,7 @@ import python from "../assets/python.png";
 
 const Skills = () => {
     return (
-        <div className="py-20 border-b border-gray-600">
+        <div id="skills" className="py-20 border-b border-gray-600">
             <div className="flex-col mt-10 justify-center item-center">
                 <div className="flex justify-around text-white text-sm lg:text-lg">
                     Explore my
@@ -23,7 +23,7 @@ const Skills = () => {
                 </div>
             </div>
             <div className="flex flex-col lg:flex-row items-center justify-center h-full ">
-                <div className="w-[90%] lg:ml-[130px] lg:w-[60%] my-4 lg:my-10 h-[60vh]  lg:p-10 grid grid-cols-3 lg:grid-cols-4 flex-wrap gap-2 lg:gap-5 items-center justify-center border border-gray-600 rounded-3xl  bg-black text-white">
+                <div className="w-[90%] lg:ml-[130px] lg:w-[60%] my-4 lg:my-10 h-[60vh]  lg:p-10 grid grid-cols-3 lg:grid-cols-4 flex-wrap gap-2 lg:gap-5 items-center justify-center border border-gray-600 rounded-3xl  bg-black text-white shadow-md shadow-gray-700">
                     <div className="flex flex-col items-center text-center">
                         <div className="text-4xl">
                             <img className="h-10 w-10" src={html} alt="" />
