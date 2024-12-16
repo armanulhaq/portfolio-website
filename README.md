@@ -35,7 +35,6 @@ cd portfolio-website
 ```
 ## Install dependencies
 ```
-bash
 npm install
 ```
 
