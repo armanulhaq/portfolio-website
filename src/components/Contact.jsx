@@ -1,4 +1,4 @@
-import linkedIn from "../assets/linkedIn.svg";
+import linkedIn from "../assets/linkedin.svg";
 import email from "../assets/email.png";
 
 const Contact = () => {
