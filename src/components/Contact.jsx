@@ -30,7 +30,7 @@ const Contact = () => {
                                     alt=""
                                 />
                                 <div className="flex justify-center items-center">
-                                    <a href="mailto:examplemail@gmail.com">
+                                    <a href="mailto:armanulhaq10@gmail.com">
                                         armanulhaq10@gmail.com
                                     </a>
                                 </div>
