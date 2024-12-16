@@ -2,7 +2,7 @@
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. This project showcases a clean and professional design with smooth animations and interactive elements
 
 # Features
-###Personal Introduction
+### Personal Introduction
 - Hero section with profile image and social links
 - Downloadable CV option
 - Contact information with direct email and LinkedIn links
