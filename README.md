@@ -28,19 +28,18 @@ The portfolio includes six main projects:
 - Fusion AI
 
 # Installation
+## Clone the repository
 ```
-bash
-# Clone the repository
 git clone https://github.com/armanulhaq/portfolio-website
 cd portfolio-website
 ```
-# Install dependencies
+## Install dependencies
 ```
 bash
 npm install
 ```
 
-# Run development server
+## Run development server
 ```
 npm run dev
 ```
