@@ -9,7 +9,7 @@ const About = () => {
                 <div className="flex justify-around text-white text-sm lg:text-lg">
                     Get to know more
                 </div>
-                <div className="flex justify-around mt-4 text-white text-xl lg:text-6xl font-bold">
+                <div className="flex justify-around mt-2 text-white text-4xl lg:text-6xl font-bold">
                     About Me
                 </div>
             </div>
@@ -29,7 +29,7 @@ const About = () => {
                                 <div className="text-white font-bold text-xl text-start mb-1">
                                     Education
                                 </div>
-                                <div className="text-gray-400 text-start">
+                                <div className="text-gray-400 text-sm lg:text-lg text-start">
                                     B.Tech from Vellore Institute of Technology
                                 </div>
                             </div>
