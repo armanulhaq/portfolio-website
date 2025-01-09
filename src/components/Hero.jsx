@@ -5,6 +5,9 @@ import medium from "../assets/medium.svg";
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
+    const scrollToSection = (id) => {
+        document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
+    };
     return (
         <div className="border-b border-gray-600 bg-black flex flex-col lg:flex-row items-center justify-center h-[90vh]">
             <div className="container mx-auto px-4 flex flex-col lg:flex-row items-center justify-center lg:space-x-40 h-full">
@@ -30,6 +33,7 @@ const Hero = () => {
                             Download CV
                         </a>
                         <Button
+                            onClick={() => scrollToSection("contact")}
                             variant="outline"
                             className="bg-transparent h-[50px] px-6 text-xs lg:text-xl text-white border-white hover:bg-white hover:text-black rounded-3xl"
                         >
