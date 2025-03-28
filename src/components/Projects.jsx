@@ -21,6 +21,12 @@ const Projects = () => {
                     github="https://github.com/armanulhaq/go-fusion"
                 />
                 <Project
+                    name="Veritas"
+                    gif="https://cdn.dribbble.com/userupload/21523986/file/original-5a1e5d2c9641462168d72e070d817d57.gif"
+                    demo="https://verifywithveritas.vercel.app/"
+                    github="https://github.com/armanulhaq/veritas"
+                />
+                <Project
                     name="Fusion Store"
                     gif="https://cdn.dribbble.com/users/97870/screenshots/1425320/media/676d206f27d9808d168887791efc4b5e.gif"
                     demo="https://fusion-store.vercel.app/"
