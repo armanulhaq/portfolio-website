@@ -27,6 +27,12 @@ const Projects = () => {
                     github="https://github.com/armanulhaq/veritas"
                 />
                 <Project
+                    name="Alcami"
+                    gif="https://cdn.dribbble.com/userupload/24898076/file/original-0e6fdb1ed026c5d0c908737a6dbfdb42.gif"
+                    demo="https://cube-delta-ten.vercel.app/"
+                    github="https://github.com/armanulhaq/cube"
+                />
+                <Project
                     name="Fusion Store"
                     gif="https://cdn.dribbble.com/users/97870/screenshots/1425320/media/676d206f27d9808d168887791efc4b5e.gif"
                     demo="https://fusion-store.vercel.app/"
