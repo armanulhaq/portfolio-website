@@ -15,6 +15,12 @@ const Projects = () => {
             </div>
             <div className="grid grid-cols-1 lg:grid-cols-2 py-10 gap-5 lg:gap-20 lg:px-[300px] px-5">
                 <Project
+                    name="Sushimanoo"
+                    gif="https://cdn.dribbble.com/userupload/20805250/file/original-2dcadf6a2c0741f384255b4e534271b3.gif"
+                    demo="https://sushi-ruby-seven.vercel.app/"
+                    github="https://github.com/armanulhaq/sushi"
+                />
+                <Project
                     name="Go Fusion"
                     gif="https://cdn.dribbble.com/users/795597/screenshots/3569676/media/9a9bf9c2a18364eb350b4a55ca63e91a.gif"
                     demo="https://go-fusion.vercel.app/"
