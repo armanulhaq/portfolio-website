@@ -15,6 +15,12 @@ const Projects = () => {
             </div>
             <div className="grid grid-cols-1 lg:grid-cols-2 py-10 gap-5 lg:gap-20 lg:px-[300px] px-5">
                 <Project
+                    name="Zapp"
+                    gif="https://cdn.dribbble.com/userupload/40727666/file/original-37f9059c9fccc73bdc11ded550d5c3c7.gif"
+                    demo="https://zapp-lime.vercel.app/"
+                    github="https://github.com/armanulhaq/Zapp"
+                />
+                <Project
                     name="Eat Fusion"
                     gif="https://cdn.dribbble.com/userupload/21537816/file/original-d1df206da258b0eccc1049c7ea44b29d.gif"
                     demo="https://eat-fusion.vercel.app/"
@@ -26,18 +32,7 @@ const Projects = () => {
                     demo="https://sushi-ruby-seven.vercel.app/"
                     github="https://github.com/armanulhaq/sushi"
                 />
-                <Project
-                    name="Go Fusion"
-                    gif="https://cdn.dribbble.com/users/795597/screenshots/3569676/media/9a9bf9c2a18364eb350b4a55ca63e91a.gif"
-                    demo="https://go-fusion.vercel.app/"
-                    github="https://github.com/armanulhaq/go-fusion"
-                />
-                <Project
-                    name="Veritas"
-                    gif="https://cdn.dribbble.com/userupload/21523986/file/original-5a1e5d2c9641462168d72e070d817d57.gif"
-                    demo="https://verifywithveritas.vercel.app/"
-                    github="https://github.com/armanulhaq/veritas"
-                />
+
                 <Project
                     name="Alcami"
                     gif="https://cdn.dribbble.com/userupload/24898076/file/original-0e6fdb1ed026c5d0c908737a6dbfdb42.gif"
@@ -71,12 +66,6 @@ const Projects = () => {
                     gif="https://cdn.dribbble.com/users/28455/screenshots/1389791/media/bd9f8d16f8a3027d4dccb852d44b37d6.gif"
                     github="https://github.com/armanulhaq/weather-dashboard"
                     demo="https://armanulhaq-weather-dashboard-main-gxdudm.streamlit.app/"
-                />
-                <Project
-                    name="Fusion AI"
-                    gif="https://cdn.dribbble.com/users/1373613/screenshots/5397385/media/06015c33f475bfd1eac8b2acdf6734a1.gif"
-                    github="https://github.com/armanulhaq/fusion-ai"
-                    demo="https://askfusion.vercel.app/"
                 />
             </div>
         </div>
