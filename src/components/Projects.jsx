@@ -21,6 +21,12 @@ const Projects = () => {
                     github="https://github.com/armanulhaq/Zapp"
                 />
                 <Project
+                    name="LitPick"
+                    gif="https://cdn.dribbble.com/userupload/23941634/file/original-674353314a72b96389e4ccc6a0a47021.gif"
+                    demo="https://litpickai.vercel.app/"
+                    github="https://github.com/armanulhaq/litpickai"
+                />
+                <Project
                     name="Eat Fusion"
                     gif="https://cdn.dribbble.com/userupload/21537816/file/original-d1df206da258b0eccc1049c7ea44b29d.gif"
                     demo="https://eat-fusion.vercel.app/"
@@ -50,11 +56,7 @@ const Projects = () => {
                     gif="https://cdn.dribbble.com/users/224485/screenshots/1932553/media/9ae59c34effbc06ac79c8e8a97d87461.gif"
                     github="https://github.com/armanulhaq/camera-alert"
                 />
-                <Project
-                    name="Fusion News"
-                    gif="https://cdn.dribbble.com/users/41854/screenshots/3300055/media/d9de719e83c7dea53ed3cc1b7b55ff8a.gif"
-                    github="https://github.com/armanulhaq/fusion-news"
-                />
+
                 <Project
                     name="University Website"
                     gif="https://cdn.dribbble.com/users/808936/screenshots/3232987/media/fb181b09abf9419fe9200207b1c35a47.gif"
