@@ -15,6 +15,12 @@ const Projects = () => {
             </div>
             <div className="grid grid-cols-1 lg:grid-cols-2 py-10 gap-5 lg:gap-20 lg:px-[300px] px-5">
                 <Project
+                    name="ReLeaf"
+                    gif="https://cdn.dribbble.com/userupload/29805678/file/original-82f5c5c9f3f89350d921336df6d5e552.gif"
+                    demo="https://releaf.vercel.app/"
+                    github="https://github.com/armanulhaq/releaf"
+                />
+                <Project
                     name="Zapp"
                     gif="https://cdn.dribbble.com/userupload/40727666/file/original-37f9059c9fccc73bdc11ded550d5c3c7.gif"
                     demo="https://zapp-lime.vercel.app/"
