@@ -1,7 +1,7 @@
-import myImage from "../assets/me2.png";
+import myImage from "../assets/me.jpeg";
 import linkedIn from "../assets/linkedin.svg";
 import github from "../assets/github.svg";
-import medium from "../assets/medium.svg";
+import figma from "../assets/figmabw.svg";
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
@@ -22,7 +22,7 @@ const Hero = () => {
                     <div className="text-md lg:text-lg">Hello, I&apos;m</div>
                     <div className="text-3xl lg:text-5xl">Arman Ul Haq</div>
                     <div className="text-lg lg:text-2xl">
-                        Frontend Developer
+                        Full Stack Developer
                     </div>
                     <div className="flex gap-5 mt-3 lg:mt-10">
                         <a
@@ -67,15 +67,15 @@ const Hero = () => {
                             />
                         </a>
                         <a
-                            href="https://medium.com/@r_manulhaq"
+                            href="https://figma.com/@r_manulhaq"
                             target="_blank"
                             rel="noopener noreferrer"
-                            aria-label="Medium"
+                            aria-label="Figma"
                         >
                             <img
                                 className="h-10 w-10"
-                                src={medium}
-                                alt="Medium"
+                                src={figma}
+                                alt="Figma"
                             />
                         </a>
                     </div>
