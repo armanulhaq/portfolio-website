@@ -10,7 +10,7 @@ import figma from "../assets/figma.png";
 import python from "../assets/python.png";
 import express from "../assets/express.png";
 import nodejs from "../assets/nodejs.png";
-import mongoDB from "../assets/mongoDB.png";
+import mongoDB from "../assets/mongodb.png";
 import prisma from "../assets/prisma.svg";
 import supabase from "../assets/supabase.png";
 import Skill from "./Skill";
