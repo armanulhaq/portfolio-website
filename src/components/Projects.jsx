@@ -28,7 +28,7 @@ const Projects = () => {
                 />
                 <Project
                     name="HopeSprout"
-                    gif="https://cdn.dribbble.com/userupload/39295694/file/original-f47f421d3bf08ed2057d0152dc6f460c.gif"
+                    gif="https://cdn.dribbble.com/userupload/22189168/file/original-ff83139b09e1c0a6099e5d8238f40980.gif"
                     demo="https://hopesprout.onrender.com"
                     github="https://github.com/armanulhaq/NGO"
                 />
