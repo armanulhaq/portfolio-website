@@ -21,11 +21,24 @@ const Projects = () => {
                     github="https://github.com/armanulhaq/releaf"
                 />
                 <Project
+                    name="Wanderly"
+                    gif="https://cdn.dribbble.com/userupload/22229123/file/original-a21a72a76f11c88c4695974e814fbedc.gif"
+                    demo="https://wanderly-trips.onrender.com"
+                    github="https://github.com/armanulhaq/wanderly"
+                />
+                <Project
+                    name="HopeSprout"
+                    gif="https://cdn.dribbble.com/userupload/39295694/file/original-f47f421d3bf08ed2057d0152dc6f460c.gif"
+                    demo="https://hopesprout.onrender.com"
+                    github="https://github.com/armanulhaq/NGO"
+                />
+                <Project
                     name="Zapp"
                     gif="https://cdn.dribbble.com/userupload/40727666/file/original-37f9059c9fccc73bdc11ded550d5c3c7.gif"
                     demo="https://zapp-lime.vercel.app/"
                     github="https://github.com/armanulhaq/Zapp"
                 />
+
                 <Project
                     name="Sahyog"
                     gif="https://cdn.dribbble.com/userupload/39295694/file/original-f47f421d3bf08ed2057d0152dc6f460c.gif"
