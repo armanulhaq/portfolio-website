@@ -17,7 +17,7 @@ const Projects = () => {
                 <Project
                     name="ReLeaf"
                     gif="https://cdn.dribbble.com/userupload/29805678/file/original-82f5c5c9f3f89350d921336df6d5e552.gif"
-                    demo="https://releaf.vercel.app/"
+                    demo="https://releaf-store.vercel.app"
                     github="https://github.com/armanulhaq/releaf"
                 />
                 <Project
