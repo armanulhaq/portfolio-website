@@ -27,6 +27,18 @@ const Projects = () => {
                     github="https://github.com/armanulhaq/wanderly"
                 />
                 <Project
+                    name="NotePilot"
+                    gif="https://cdn.dribbble.com/userupload/22551256/file/original-6d254c20fcfdd25e9a4f8958e3b438cd.gif"
+                    demo="https://notepilot-2.onrender.com"
+                    github="https://github.com/armanulhaq/NotePilot"
+                />
+                <Project
+                    name="Sahyog"
+                    gif="https://cdn.dribbble.com/userupload/39295694/file/original-f47f421d3bf08ed2057d0152dc6f460c.gif"
+                    demo="https://donate-with-sahyog.onrender.com"
+                    github="https://github.com/armanulhaq/donate-with-sahyog"
+                />
+                <Project
                     name="HopeSprout"
                     gif="https://cdn.dribbble.com/userupload/22189168/file/original-ff83139b09e1c0a6099e5d8238f40980.gif"
                     demo="https://hopesprout.onrender.com"
@@ -39,12 +51,6 @@ const Projects = () => {
                     github="https://github.com/armanulhaq/Zapp"
                 />
 
-                <Project
-                    name="Sahyog"
-                    gif="https://cdn.dribbble.com/userupload/39295694/file/original-f47f421d3bf08ed2057d0152dc6f460c.gif"
-                    demo="https://donate-with-sahyog.vercel.app/"
-                    github="https://github.com/armanulhaq/sahyog"
-                />
                 <Project
                     name="LitPick"
                     gif="https://cdn.dribbble.com/userupload/23941634/file/original-674353314a72b96389e4ccc6a0a47021.gif"
